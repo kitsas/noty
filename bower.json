@@ -2,8 +2,8 @@
     "name"       : "noty",
     "version"    : "2.3.5",
     "main"       : [
-        "js/noty/jquery.noty",
-        "js/noty/layouts/top"
+        "js/noty/jquery.noty.js",
+        "js/noty/layouts/top.js"
     ],
     "authors"    : [
         "Nedim Arabacı"
